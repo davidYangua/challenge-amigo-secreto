@@ -14,6 +14,7 @@
 - Estado del proyecto
 - Funcionalidades
 - Acceso al proyecto
+- Tecnologías Utilizadas
 - Autor
 
   
@@ -24,15 +25,18 @@ Se propone un proyecto sencillo que consiste en desarrollar una plataforma digit
 ## Estado Del Proyecto
 :construction: Proyecto en construcción :construction:
 
+
 ## Funcionalidades
 El proyecto cuenta con 3 funciones que realizan distintos funcionamientos a la hora de ejecutar el código en JavaScript.
 - `function agregarAmigo`: Obtiene el valor de un campo de texto y lo agrega a un array.
 - `function sortearAmigo`:selecciona de manera aleatoria uno de los nombres almacenados en el array amigos.
+
+
 ## Acceso al proyecto
 \## 📁 link de Acceso: https://davidyangua.github.io/challenge-amigo-secreto/ 
 
 
-## Tecnologías utilizadas
+## Tecnologías Utilizadas
 - javascript
 - css
 - html 5
