@@ -27,7 +27,7 @@ Se propone un proyecto sencillo que consiste en desarrollar una plataforma digit
 
 
 ## Funcionalidades
-El proyecto cuenta con 3 funciones que realizan distintos funcionamientos a la hora de ejecutar el código en JavaScript.
+El proyecto cuenta con 2 funciones que realizan la parte lógica del proyecto, los cuales se detallan acontinuación:
 - `function agregarAmigo`: Obtiene el valor de un campo de texto y lo agrega a un array.
 - `function sortearAmigo`:selecciona de manera aleatoria uno de los nombres almacenados en el array amigos.
 
